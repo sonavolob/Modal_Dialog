@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:modalDialog="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        modalDialog:showAsAction="never"
+        android:orderInCategory="100"/>
+
+
+    <item
+        android:id="@+id/action_dialog_fragment_a"
+        android:title="@string/action_dialog_fragment_a"
+        modalDialog:showAsAction="never"
+        android:orderInCategory="82"/>
+</menu>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="action_dialog_fragment_a">Show Dialog A</string>
+    <string name="action_dialog_fragment_b">Show Dialog B</string>
+    <string name="app_name">Test modal Dialog Fragments</string>
+
+    <string name="infoRow">Click for modal dialog</string>
+
+
+
+
+    <!--dialog_fragment_a-->
+    <string name="dialog_a">Will do A upon selection:</string>
+    <string name="dialog_b">Will do B upon selection:</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <string-array name="pref_array_entries">
+        <item>X</item>
+        <item>Y</item>
+    </string-array>
+    <string-array name="pref_array_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+
+
+    <!--________________________________________-->
+
+
+
+</resources>
